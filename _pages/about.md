@@ -7,6 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+## News
+To be update...
+<!--
+#![Journal Icon](/images/journal-icon.png)  
+ My latest paper *One Descriptor to Fold Them All...* has been accepted in *J. Phys. Chem. B*.  
+Read more on the [Publications page](/publications/).
+-->
+
 ## Distinguished Scientist
 Dr. Gabe (Gabriel) da Hora is a computational chemist currently serving as a Postdoctoral Research Associate at the University of Utah. He brings over fifteen years of experience in molecular modeling and simulation, applying molecular dynamics, enhanced sampling methods, and quantum chemistry to uncover mechanisms of membrane selectivity and peptide folding that inform rational drug design.
 
