@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## News
 To be update...
 <!--
@@ -14,16 +13,12 @@ To be update...
  My latest paper *One Descriptor to Fold Them All...* has been accepted in *J. Phys. Chem. B*.  
 Read more on the [Publications page](/publications/).
 -->
-
 ## Distinguished Scientist
 Dr. Gabe (Gabriel) da Hora is a computational chemist currently serving as a Postdoctoral Research Associate at the University of Utah. He brings over fifteen years of experience in molecular modeling and simulation, applying molecular dynamics, enhanced sampling methods, and quantum chemistry to uncover mechanisms of membrane selectivity and peptide folding that inform rational drug design.
-
 ## Technical Expertise
 His work spans classical and enhanced sampling techniques such as metadynamics and umbrella sampling, free‐energy calculations including FEP and MM‐PBSA, molecular docking and structure‐based design, quantum chemical computations with Gaussian and ORCA, and automation of high‐performance computing workflows using Python for data analysis and pipeline integration.
-
 ## Educator and Mentor
 Beyond his research, Gabriel is dedicated to inclusive, active‐learning approaches. He has taught general chemistry, physical chemistry laboratories, and biophysical chemistry courses at UFPE and the University of Utah. Over the years, he has mentored more than fifteen undergraduate and graduate students, guiding their research projects, technical writing skills, and professional development.
-
 ## Future Endeavors
 Looking ahead, Gabriel plans to integrate machine learning into enhanced sampling protocols, expand investigations of toxin–membrane interactions, and develop interdisciplinary course modules that bridge computational modeling with experimental validation.
 

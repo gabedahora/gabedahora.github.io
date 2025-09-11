@@ -22,7 +22,7 @@ repository               : "gabedahora/gabedahora.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile-20231018.png"
+  avatar           : "images/profile-20231018.jpg" # path to your profile image placed in /images/, e.g. "profile.jpg"
   name             : "Gabe da Hora, Ph.D."
   pronouns         : "he/him"  
   bio              : "Computational Chemist & Passionate Educator"
